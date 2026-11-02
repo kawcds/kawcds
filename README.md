@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,35:1E3A8A,70:2563EB,100:06B6D4&text=Kevin%20Wong&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
 <h3 align="center">Software Engineer | Python, JavaScript/Typescript, Rust</h3>
 
 <p align="center"> 
