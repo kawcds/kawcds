@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 💻 About Me
 
-- 🧠 **Software Engineer | Python, JavaScript/Typescript, Rust** with 5+ years of experience building scalable production-ready web applications, dApps, and AI powered systems
-- 🚀 Strong foundation in Python, JavaScript, and Rust
+- 🧠 **Software Engineer | Python, JavaScript/Typescript, Rust** with 5+ years of experience building scalable production-ready web applications, dApps, and AI powered systems.
+- 🚀 Strong foundation in Python, JavaScript, and Rust.
 - 👯 Proven ability to optimize performance, improve user engagement, and deliver end-to-end solutions with **collaboration** in **fast-paced** environments.
-- 🤔 As a detail-oriented software engineer, my goal is to help startups turn ideas into production solutions
+- 🤔 As a detail-oriented software engineer, my goal is to help startups turn ideas into production solutions and grow fast.
